@@ -1,0 +1,74 @@
+﻿# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large files that exceed GitHub's 100MB limit
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large CSV files over 100MB
+**/train_tmp.csv
+**/Train.csv
+**/TrainAndValid.csv
+**/test-features.txt
+**/digit_xtrain.csv
+
+# Specific large files
+zero-to-mastery-ml-master/
+tensorflow-deep-learning-main/
+pytorch-deep-learning-main/
+zero-to-mastery-ml-master.zip
+tensorflow-deep-learning-main.zip
+pytorch-deep-learning-main.zip
+
+# Large dataset files
+**/bluebook-for-bulldozers.zip
+**/bluebook-for-bulldozers/
+DS_New/SpamData/03_Testing/
+DS_New/digit_xtrain.csv
