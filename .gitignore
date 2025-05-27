@@ -46,6 +46,7 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
+<<<<<<< HEAD
 # Large files that exceed GitHub's 100MB limit
 *.zip
 *.tar.gz
@@ -72,3 +73,9 @@ pytorch-deep-learning-main.zip
 **/bluebook-for-bulldozers/
 DS_New/SpamData/03_Testing/
 DS_New/digit_xtrain.csv
+=======
+# Large files (uncomment if needed)
+# *.zip
+# *.tar.gz
+# *.rar
+>>>>>>> 81011ebdc13dee81f9435365378a1fa908148347

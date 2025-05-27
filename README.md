@@ -1,4 +1,4 @@
-﻿# Course 1: Data Science Toolkit
+# Course 1: Data Science Toolkit
 
 A comprehensive collection of data science learning materials, tutorials, and practical implementations covering fundamental to advanced topics in data science, machine learning, and deep learning.
 
@@ -30,12 +30,16 @@ This repository serves as a complete toolkit for learning data science, featurin
 - **10 Neural Nets - Keras CIFAR10 Classification.ipynb** - CIFAR-10 image classification with Keras
 - **11 Neural Networks - TF Handwriting Recognition.ipynb** - Handwritten digit recognition using TensorFlow
 
-### Additional Resources (`Python Rahul Sir CTC/`)
-- Advanced Python programming concepts
-- Pandas data manipulation tutorials
-- Statistics fundamentals
-- Linear and logistic regression implementations
-- Tree-based modeling approaches
+### Data Visualization Modules
+- **Case Study Notebook (Completed)** - Complete data visualization case studies
+- **Data Visualisation - Graded Questions** - Practice exercises and assignments
+- **More Stuff** - Additional visualization techniques and examples
+
+### Programming Foundations
+- **Module 1-3** - Preparatory content covering Python basics
+- **Numpy** - Numerical computing tutorials
+- **Pandas** - Data manipulation and analysis
+- **Python Rahul Sir CTC** - Advanced Python programming concepts
 
 ### External Libraries & Frameworks
 - **PyTorch Deep Learning** - Complete PyTorch tutorials and implementations
